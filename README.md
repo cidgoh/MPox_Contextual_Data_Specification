@@ -27,7 +27,12 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 
 ## The MPox Contextual Data Specification Package
 
-This specification is implemented via <spreadsheet-based data collection instrument, a DataHarmonizer validation template, other...>, accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+This specification is implemented via the DataHarmonizer, a CIDGOH tool for applying the specification. Accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)** are available and can be used to support any other tools that can be tailored to implement the specification. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+
+The MPox contextual data specification currently supports two primary use cases, which are built on the same schema:
+
+- **Canadian MPox contextual data:** Contextual data for submitting labs in Canada. This specification has picklists specific to Canadian territories and organisations.
+- **Internation MPox contextual data:** Contextual data for international users. This specification has simplified picklists and allows for more flexibility to support international use.
 
 ### Version Control
 
