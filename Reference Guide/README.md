@@ -18,13 +18,13 @@ The following version information regarding field/piclkist term values are avail
 - `Canadian_MPox_Master-Reference-Guide_v1.0.0.xlsx` 
 Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.). 
 
-- `Canadian_MPox_Master-Reference_Field-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
+- `Canadian_MPox_Field-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
 
-- `Canadian_MPox_Master-Reference_Term-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
+- `Canadian_MPox_Term-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
 
 - `International_MPox_Master-Reference-Guide_v1.0.0.xlsx` 
 Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.). 
 
-- `International_MPox_Master-Reference_Field-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
+- `International_MPox_Field-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
 
-- `International_MPox_Master-Reference_Term-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
+- `International_MPox_Term-Reference-Guide_v1.0.0.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
