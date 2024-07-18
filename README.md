@@ -55,23 +55,23 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
   - Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
 #### Field and Term Reference Guides
-- [XLSX version]()
+- [XLSX version]() *To be added*
 - PDF version
-  - [Field Reference Guide]()
-  - [Term Reference Guide]()
-- [Online version]()
+  - [Canadian and International Field Reference Guides](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
+  - [Canadian and International Term Reference Guide](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
+
 
 #### Curation SOP
-- [PDF version]()
-- [Online version]()
+- [PDF version]()  *To be added*
+- [Online version]()  *To be added*
 
 #### DataHarmonizer Instructions and SOP
-- [PDF version]()
-- [Online version]()
+- [PDF version]()  *To be added*
+- [Online version]()  *To be added*
 
 #### New Term Request (NTR) SOP
 - [PDF version]()
-- [Online version]()
+- [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
 
 ## Contacts
 For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/MPox_Contextual_Data_Specification/issues).
