@@ -1,14 +1,13 @@
-# The <insert name> Contextual Data Specification
+# The MPox Contextual Data Specification
 
   - [About](#about)
   - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality)
-  - [The  Contextual Data Specification Package](#the--contextual-data-specification-package)
+  - [The MPox Contextual Data Specification Package](#the-mpox-contextual-data-specification-package)
     - [Version Control](#version-control)
     - [Package Contents](#package-contents)
       - [Data Collection Template](#data-collection-template)
       - [Field and Term Reference Guides](#field-and-term-reference-guides)
       - [Curation SOP](#curation-sop)
-      - [DataHarmonizer Instructions and SOP](#dataharmonizer-instructions-and-sop)
       - [New Term Request (NTR) SOP](#new-term-request-ntr-sop)
   - [Contacts](#contacts)
   - [License](#license)
@@ -55,22 +54,20 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
   - Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
 #### Field and Term Reference Guides
-- [XLSX version]() *To be added*
+- [XLSX version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/Reference%20Guide/MPox-All_Master-Reference-Guide_v6.4.4.xlsx) *Please note that this format contains all fields and terms for both the Canadian and the International reference guides. You will need to filter appropriately*
 - PDF version
   - [Canadian and International Field Reference Guides](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
   - [Canadian and International Term Reference Guide](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
 
 
 #### Curation SOP
-- [PDF version]()  *To be added*
+- [Canadian PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/Canadian_Mpox_Contextual-Data-Curation-SOP_v5.4.pdf)
+- [International PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/International_Mpox_Contextual-Data-Curation-SOP_v6.4.pdf)
 - [Online version]()  *To be added*
 
-#### DataHarmonizer Instructions and SOP
-- [PDF version]()  *To be added*
-- [Online version]()  *To be added*
 
 #### New Term Request (NTR) SOP
-- [PDF version]()
+- [PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/Contextual-Data-Specification_Metadata_NTR_SOP_v1.1.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
 
 ## Contacts
