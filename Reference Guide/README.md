@@ -15,8 +15,6 @@ The following version information regarding field/piclkist term values are avail
 
 ## Files
 
-- `Canadian_MPox_Master-Reference-Guide_v6.5.5.xlsx` 
-Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.). 
 
 - `Canadian_MPox_Field-Reference-Guide_v5.5.5.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
 
@@ -26,5 +24,5 @@ Microsoft Excel Open XML Format Spreadsheet file, opening in other applications 
 
 - `International_MPox_Term-Reference-Guide_v6.5.5.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
 
-- `MPox_Master-Reference-Guide_v6.4.4.xlsx` 
+- `MPox_Master-Reference-Guide_v6.5.5.xlsx` 
 Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.). 
