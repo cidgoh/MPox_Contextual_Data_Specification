@@ -23,5 +23,5 @@ The following version information regarding field/piclkist term values are avail
 
 - `International_MPox_Term-Reference-Guide_v7.5.5.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
 
-- `Master-All-Reference-Guide_v7.5.5.xlsx` 
+- `MPox-All_Master-Reference-Guide_v7.5.5.xlsx` 
 Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.). 
