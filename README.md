@@ -63,12 +63,11 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 #### Curation SOP
 - [Canadian PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/Canadian_Mpox_Contextual-Data-Curation-SOP_v5.4.pdf)
 - [International PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/International_Mpox_Contextual-Data-Curation-SOP_v6.4.pdf)
-- [Online version]()  *To be added*
 
 
 #### New Term Request (NTR) SOP
 - [PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/Contextual-Data-Specification_Metadata_NTR_SOP_v1.1.pdf)
-- [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
+  
 
 ## Contacts
 For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](https://github.com/cidgoh/MPox_Contextual_Data_Specification/issues).
