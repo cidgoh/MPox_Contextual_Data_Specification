@@ -4,12 +4,12 @@ The contents of this directory include standard operating procedure(s) (SOP) to 
 
 ## Files
 
-- `Canadian-MPox_Metadata-Curation-SOP-6.5.pdf` 
+- `Canadian-MPox_Metadata-Curation-SOP-7.5.pdf` 
 PDF version of the metadata curation SOP that breaksdown what is in the specification and how to apply it.
   - An online version is available for viewing [**here**](https://docs.google.com/document/d/e/2PACX-1vTgQAKSKSfRx7SHvYZKcdNJu_3VZHA7GhgFR_DPMKACmKn5cQ7CQ-6DP9aDj-ZoZQ/pub).
 
 
-- `International-MPox_Metadata-Curation-SOP-7.5.pdf` 
+- `International-MPox_Metadata-Curation-SOP-8.5.pdf` 
 PDF version of the metadata curation SOP that breaksdown what is in the specification and how to apply it.
   - An online version is available for viewing [**here**](https://docs.google.com/document/d/e/2PACX-1vSFmAx-LJh2PmCL_TG630eIc5S_4kDNFVragOt00bDsa7TK5xlkBpmq79REOAb-Ew/pub)
 
