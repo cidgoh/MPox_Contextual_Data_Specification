@@ -58,7 +58,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - PDF version
   - [Canadian and International Field Reference Guides](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
   - [Canadian and International Term Reference Guide](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
-
+  - [Canadian and International Specifical Field Comparison](https://github.com/cidgoh/MPox_Contextual_Data_Specification/tree/main/Reference%20Guide)
 
 #### Curation SOP
 - [Canadian PDF version](https://github.com/cidgoh/MPox_Contextual_Data_Specification/blob/main/SOPs/Canadian_Mpox_Contextual-Data-Curation-SOP_v5.4.pdf)
