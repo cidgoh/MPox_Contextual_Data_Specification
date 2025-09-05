@@ -20,6 +20,8 @@ The following version information regarding field/piclkist term values are avail
 - `Canadian_MPox_Term-Reference-Guide_v7.5.5.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
 
 - `International_MPox_Field-Reference-Guide_v8.5.5.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
+  
+- `Specification Field Comparison Mpox-v7.5.5 + MpoxInternational-v9.0.0.pdf` a PDF printout showing the similarities and differences between the Canadian and International Mpox specifications.
 
 - `International_MPox_Term-Reference-Guide_v8.5.5.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
 
