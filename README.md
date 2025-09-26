@@ -35,7 +35,8 @@ The MPox contextual data specification currently supports two primary use cases,
 
 ### Preprint Manuscript
 
-Griffiths E, Cameron R, Barclay C, John NS, Dooley D, Gill I, et al. The Mpox Contextual Data Specification Package: A Data Curation Toolkit to Support Collaborative Pathogen Genomic Surveillance [Internet]. OSF Preprints; 2025. Available from: [osf.io/4h7b2_v1](osf.io/4h7b2_v1)
+**Preprint: The Mpox Contextual Data Specification Package: A Data Curation Toolkit to Support Collaborative Pathogen Genomic Surveillance**
+> Griffiths E, Cameron R, Barclay C, _et al._ The Mpox Contextual Data Specification Package: A Data Curation Toolkit to Support Collaborative Pathogen Genomic Surveillance. Epub ahead of print 22 August 2025. DOI: [10.31219/osf.io/4h7b2_v1](osf.io/4h7b2_v1).
 
 ### Version Control
 
