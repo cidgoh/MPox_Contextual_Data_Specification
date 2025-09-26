@@ -33,6 +33,10 @@ The MPox contextual data specification currently supports two primary use cases,
 - **Canadian MPox contextual data:** Contextual data for submitting labs in Canada. This specification has picklists specific to Canadian territories and organisations.
 - **Internation MPox contextual data:** Contextual data for international users. This specification has simplified picklists and allows for more flexibility to support international use.
 
+### Preprint Manuscript
+
+Griffiths E, Cameron R, Barclay C, John NS, Dooley D, Gill I, et al. The Mpox Contextual Data Specification Package: A Data Curation Toolkit to Support Collaborative Pathogen Genomic Surveillance [Internet]. OSF Preprints; 2025. Available from: [osf.io/4h7b2_v1](osf.io/4h7b2_v1)
+
 ### Version Control
 
 Please note that development of the specification is dynamic and it will be updated periodically to address user needs. Versioning is done in the format of `x.y.z`.
